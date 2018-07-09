@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :"Padraic-Doyle"
+  github           :"Padraic-Doyle.github.io"
   gitlab           :
   google_plus      :
   keybase          :
@@ -278,4 +278,4 @@ defaults:
       values:
         layout: single
         author_profile: true
-          
+
