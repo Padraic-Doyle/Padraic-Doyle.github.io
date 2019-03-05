@@ -8,6 +8,12 @@ html {
 body {
   font-family: 'Montserrat', sans-serif;
 }
+h1 {
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+  }
+
 
 hr {
   max-width: 65px;
